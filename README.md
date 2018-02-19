@@ -3,7 +3,7 @@ Some projects that I have worked on
 
 Boid_GUI (Java): A predator-prey simulation with changeable factors. Uses complex vector geometry. Fun to play around with!
 
-FPA (Java): Uses "Rotating Calipers" algorithm to efficiently find the farthest two points in a point cloud. Red line denotes distance
+FPA (Java): Uses "Rotating Calipers" algorithm to efficiently find the farthest two points in a point cloud. Red line = distance
 
 GameOfLife (Java): Inspired by "Conway's Game of Life" (search this up). Contains two separate programs:
 1. GOL2: My better version of Conway's Game of Life
